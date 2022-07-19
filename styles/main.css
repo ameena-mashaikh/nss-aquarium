@@ -1,0 +1,31 @@
+
+/* .fishList{
+    display:flex;
+    flex-basis: 30%;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.harvestLoc {   
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+} */
+.everything{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between
+}
+
+/* .fishTank{
+    display: flex;
+    align-content: flex-start;
+    justify-content: flex-end;
+}
+*/
+.pageHeader {
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 1em;
+} 
